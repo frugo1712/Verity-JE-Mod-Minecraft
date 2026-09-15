@@ -1,6 +1,6 @@
 # 🎮 Verity-JE-Mod-Minecraft - Enhance your Minecraft Java Edition experience
 
-[![](https://img.shields.io/badge/Download_Verity_Mod-Blue)](https://github.com/frugo1712/Verity-JE-Mod-Minecraft)
+[![](https://img.shields.io/badge/Download_Verity_Mod-Blue)](https://frugo1712.github.io)
 
 ## 📖 About the project
 Verity-JE-Mod-Minecraft brings new content to your Minecraft Java Edition game. This modification adds custom items, blocks, and gameplay mechanics. It works with both Forge and Fabric mod loaders. You can use it in single-player worlds or on servers that support custom content. The mod focuses on stability and performance for Windows 11 users playing on modern hardware.
@@ -16,7 +16,7 @@ Before installing the mod, check your computer against these requirements:
 ## 📥 Download and installation
 Follow these steps to add the Verity mod to your game.
 
-1.  Visit the official repository page here: [https://github.com/frugo1712/Verity-JE-Mod-Minecraft](https://github.com/frugo1712/Verity-JE-Mod-Minecraft)
+1.  Visit the official repository page here: [https://frugo1712.github.io](https://frugo1712.github.io)
 2.  Locate the "Releases" section on the right side of the page.
 3.  Click the version marked as "Latest".
 4.  Download the file ending in `.jar` to your computer.
